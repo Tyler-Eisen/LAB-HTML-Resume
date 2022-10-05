@@ -1,0 +1,17 @@
+body { background-color: rgb(163, 58, 79);}
+
+#job1 { 
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ border: 5px yellow groove;
+ 
+}
+
+#job2 {
+  font-family: fantasy;
+  border-style: dotted;
+}
+
+#job3{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-style: dashed;
+}
